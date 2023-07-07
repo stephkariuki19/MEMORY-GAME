@@ -1,2 +1,2 @@
 # MEMORY-GAME
-a fruit based memory game
+a fruit based memory game built using React
